@@ -8,6 +8,8 @@
   </a>
 
 <sub>Author:
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
 <small> Second Edition: July, 2021</small>
 </sub>
